@@ -79,7 +79,7 @@ def main():
 
     # Judul dan deskripsi aplikasi
     st.title("Multi Factor Authentication (MFA) with Face Recognition (Using Camera)")
-    st.markdown("Check the documentation or source code. The Face Recognition feature in this application uses a model provided by the Mediapipe library, which provides features for performing Face Detection. To test this application, users can directly use a photo of the user's face. Users must run a series of Authentication Flows so that they can log in to the System. Check the [Documentation or source code here for MediaPipe model](https://github.com/glenhanssss/Multi-Factor-Authentication-with-Face-Recognition-with-Mediapipe) and [Here](https://github.com/glenhanssss/Multi-Factor-Authentication-with-Face-Recognition-with-Mediapipe) for uploading picture documentation", unsafe_allow_html=True)
+    st.markdown("Check the documentation or source code. The Face Recognition feature in this application uses a model provided by the Mediapipe library, which provides features for performing Face Detection. To test this application, users can directly use a photo of the user's face. Users must run a series of Authentication Flows so that they can log in to the System. Check the [Documentation or source code here for MediaPipe model](https://github.com/glenhanssss/MediaPipe-Multi-Factor-Authentication-with-Face-Recognition) and [Here](https://github.com/glenhanssss/Multi-Factor-Authentication-with-Face-Recognition) for uploading picture documentation", unsafe_allow_html=True)
     
     # autentikasi arah depan
     st.markdown("<br>", unsafe_allow_html = True)
